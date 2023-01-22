@@ -1,0 +1,50 @@
+.sirenko {
+
+    text-align: center;
+    font-family: Source Sans Variable;
+    color: white;
+
+}
+
+.imandb {
+
+    text-align: center;
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+
+body {
+    background-image: url(images/fon.jpg);
+    margin: 0px;
+}
+
+.ba {
+    text-align: center;
+    font-family: VAG World;
+    font-size: 50;
+    transition: 1s;
+    color: white;
+}
+
+.imandb :hover {
+    font-size: 80;
+
+}
+
+.img1 {
+
+    text-align: center;
+
+}
+
+.imandb {
+
+    margin: 10px;
+
+}
+
